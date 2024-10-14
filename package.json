@@ -1,0 +1,39 @@
+{
+  "name": "clothinginsecurity",
+  "version": "1.0.0",
+  "main": "expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start --dev-client",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@firebase/analytics": "^0.10.8",
+    "@firebase/app": "^0.10.13",
+    "@firebase/firestore": "^4.7.3",
+    "@react-native-firebase/app": "^21.0.0",
+    "@react-native-firebase/database": "^21.0.0",
+    "@react-navigation/native": "^6.1.18",
+    "@react-navigation/stack": "^6.4.1",
+    "argon2": "^0.41.1",
+    "bcryptjs": "^2.4.3",
+    "expo": "~51.0.28",
+    "expo-status-bar": "^1.12.1",
+    "firebase": "^10.14.1",
+    "react": "18.2.0",
+    "react-native": "0.74.5",
+    "react-native-bcrypt": "^2.4.0",
+    "react-native-crypto": "^2.2.0",
+    "react-native-screens": "^3.34.0",
+    "react-native-windows": "^0.74.5",
+    "windows": "^0.1.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "@types/bcryptjs": "^2.4.6",
+    "@types/react": "^18.3.11",
+    "@types/react-dom": "^18.3.1"
+  },
+  "private": true
+}
