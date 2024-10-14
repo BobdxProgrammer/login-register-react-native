@@ -13,14 +13,14 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.ShauryaSingh.clothingInsecurityIOS"
+      "bundleIdentifier": "com.VekramSingh.clothingInsecurityIOS"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.ShauryaSingh.clothingInsecurity"
+      "package": "com.VekramSingh.clothingInsecurity"
     },
     "web": {
       "favicon": "./assets/favicon.png"
